@@ -1,2 +1,2 @@
 # grannys-game
-Jogo da velha
+Jogo da velha v1.1
