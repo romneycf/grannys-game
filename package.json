@@ -1,0 +1,24 @@
+{
+  "name": "grannys-game",
+  "version": "1.0.0",
+  "description": "Jogo da velha",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npm run build && node dist/index.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romneycf/grannys-game.git"
+  },
+  "author": "Romney Freire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romneycf/grannys-game/issues"
+  },
+  "homepage": "https://github.com/romneycf/grannys-game#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
